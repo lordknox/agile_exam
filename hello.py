@@ -1,0 +1,1 @@
+print("This is a validation file for the  product management system")
